@@ -1,10 +1,10 @@
 self.__uv$config = {
-    prefix: '/static/tiw/',
+    prefix: 'https://water-logger.github.io/unblocker/static/tiw/',
     bare:'https://bare.benrogo.net',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
-    handler: '/static/uv/uv.handler.js',
-    bundle: '/static/uv/uv.bundle.js',
-    config: '/static/uv/uv.config.js',
-    sw: '/static/uv/uv.sw.js',
+    handler: 'https://water-logger.github.io/unblocker/static/uv/uv.handler.js',
+    bundle: 'https://water-logger.github.io/unblocker/static/uv/uv.bundle.js',
+    config: 'https://water-logger.github.io/unblocker/static/uv/uv.config.js',
+    sw: 'https://water-logger.github.io/unblocker/static/uv/uv.sw.js',
 };
