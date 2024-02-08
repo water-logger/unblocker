@@ -1,4 +1,4 @@
-importScripts("/static/uv/uv.sw.js");
+importScripts("https://water-logger.github.io/unblocker/static/uv/uv.sw.js");
 
 const sw = new UVServiceWorker();
 
